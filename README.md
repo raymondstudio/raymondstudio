@@ -55,7 +55,7 @@ I build modern web apps and scalable digital experiences.
 ---
 
 ## 🌐 Connect With Me
-<a href="https://raymond-studio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://raymondstudio.dev"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raymond-iorliam-27200139a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://x.com/Raymond_Xr"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
 

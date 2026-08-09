@@ -1,63 +1,372 @@
-<h1 align="center">Hi, I'm Raymond 👋</h1>
+<!--
+  Raymond Iorliam
+  GitHub Profile README
 
-<!-- Typing Animation -->
+  Recommended assets:
+  .github/
+  └── assets/
+      ├── github-banner.png
+      ├── eduagent-preview.png
+      └── atrixia-preview.png
+-->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;I+build+modern+web+apps;and+scalable+digital+experiences" alt="Typing SVG" />
+  <img src="./github-banner.png" alt="Raymond Iorliam - Software Engineer" width="100%" />
+</p>
+
+<h1 align="center">Hey, I'm Raymond 👋</h1>
+
+<p align="center">
+  <strong>Software Engineer · Full-Stack Developer · AI Product Builder</strong>
+</p>
+
+<p align="center">
+  I build web products, experiment with AI, and turn ideas into software people can actually use.
+</p>
+
+<p align="center">
+  <a href="https://raymondstudio.dev">Portfolio</a>
+  ·
+  <a href="https://github.com/raymondstudio">GitHub</a>
+  ·
+  <a href="https://x.com/Raymond_Xr">X</a>
+  ·
+  <a href="mailto:contact@raymondstudio.dev">Email</a>
 </p>
 
 ---
 
-### About Me
-I build modern web apps and scalable digital experiences.
+## About me
 
-### Wanna know more?  
-👉 <a href="https://raymondstudio.dev/more"><b>Ask my Personal AI</b></a>
+I'm Raymond Iorliam, a Software Engineering student at the Federal University of Technology, Minna and a full-stack developer interested in building products at the intersection of software, AI, and good user experience.
 
----
+I started out focused mainly on frontend development. Since then, I've moved deeper into full-stack engineering, working with APIs, databases, authentication, search systems, AI integrations, deployment, and product architecture.
 
-## 🧩 Tech Stack & Tools
+I enjoy taking an idea from:
 
-### **Frontend**
-![HTML](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white)
+```text
+Problem
+   ↓
+Idea
+   ↓
+Design
+   ↓
+Code
+   ↓
+AI / Backend / Data
+   ↓
+Working Product
+```
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+Some of the things I build start as experiments. Some become real products.
 
-### **AI / ML**
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-ffdd55?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gemini API](https://img.shields.io/badge/-Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![APIs](https://img.shields.io/badge/-APIs-4e8ef7?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **Mobile**
-![React Native](https://img.shields.io/badge/-React_Native-61dafb?style=for-the-badge&logo=react&logoColor=black)
-
-### **Deployment**
-![Netlify](https://img.shields.io/badge/-Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+Right now, I'm especially interested in **AI-powered applications, product engineering, full-stack development, and developer tools**.
 
 ---
 
-## 📊 Top Languages
+## What I'm working on
+
+### 🧠 EduAgent AI
+
+<a href="https://eduagentai.vercel.app">
+  <img src="./eduagent-preview.png" alt="EduAgent AI" width="100%" />
+</a>
+
+**EduAgent AI** is an AI-powered study companion built to help students understand and work with their study materials.
+
+Students can upload PDFs, lecture notes, screenshots, and other materials and use AI to ask questions, get explanations, summarize content, and study more effectively.
+
+The idea is simple:
+
+> Give students a place where their study material can become an interactive learning experience.
+
+**Built with:**
+
+`Next.js` `React` `TypeScript` `Supabase` `Gemini API` `Elasticsearch` `Tailwind CSS` `Vercel`
+
+**Highlights**
+
+* AI tutoring and explanations
+* PDF and study-material interaction
+* Context-aware conversations
+* Persistent chat sessions
+* Search and retrieval
+* AI-generated notes and summaries
+* Image and screenshot understanding
+* Study planning and revision features
+
+🔗 [Try EduAgent AI](https://eduagentai.vercel.app)
+
+---
+
+### 🛒 Atrixia
+
+<a href="#">
+  <img src="./atrixia-preview.png" alt="Atrixia" width="100%" />
+</a>
+
+**Atrixia** is an AI-assisted shopping decision platform designed to help people make better purchasing decisions.
+
+Instead of simply giving users a huge list of products, Atrixia focuses on understanding what the person actually needs.
+
+For example:
+
+> "I need a laptop for software engineering. My budget is ₦500,000. What should I buy?"
+
+Atrixia is designed around questions like that.
+
+It combines product information, search, user requirements, budgets, and AI-assisted reasoning to help users move from **"What should I buy?"** to a much more informed decision.
+
+**Currently exploring:**
+
+`Next.js` `React` `TypeScript` `Node.js` `AI` `Search` `Product Data` `Tailwind CSS`
+
+🔗 Project links will be added when the public deployment and repository are ready.
+
+---
+
+## 🧩 Tech stack
+
+I don't try to collect technologies just for the sake of having them on a list. These are the tools I currently use, build with, or actively explore.
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+</p>
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
+
+### Backend & databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres" alt="Backend technologies" />
+</p>
+
+`Node.js` · `Express` · `Supabase` · `Firebase` · `PostgreSQL` · `Elasticsearch`
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</p>
+
+`Google Gemini` · `AI APIs` · `RAG` · `Embeddings` · `AI Agents` · `Python`
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+</p>
+
+`React Native` · `Expo`
+
+### Tools & deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma" alt="Development tools" />
+</p>
+
+`Git` · `GitHub` · `VS Code` · `Vercel` · `Netlify` · `Figma`
+
+---
+
+## 🛠️ What I like building
+
+My projects usually fall into a few areas:
+
+| Area               | What I enjoy building                                                 |
+| ------------------ | --------------------------------------------------------------------- |
+| AI products        | AI tutors, assistants, agents, and AI-powered workflows               |
+| Full-stack apps    | Products with real frontend, backend, authentication, and data layers |
+| SaaS               | Useful tools with clean interfaces and practical workflows            |
+| Developer tools    | Software that makes technical work easier                             |
+| Search & RAG       | Systems that connect AI models with useful external knowledge         |
+| Student tech       | Products that solve problems students actually deal with              |
+| Product interfaces | Responsive, interactive interfaces that feel good to use              |
+
+---
+
+## 🚀 Selected projects
+
+### EduAgent AI
+
+AI-powered study companion for students.
+
+`Next.js` `TypeScript` `Supabase` `Gemini` `Elasticsearch`
+
+### Atrixia
+
+AI-assisted shopping and product decision platform.
+
+`Next.js` `TypeScript` `Node.js` `AI` `Search`
+
+### Adonis Software
+
+Marketing website for a software brand.
+
+`React` `Tailwind CSS` `TypeScript`
+
+[View project](https://adonisoftware.tech)
+
+### E-Commerce
+
+Responsive storefront focused on product discovery and browsing.
+
+`React` `Tailwind CSS`
+
+[View project](https://sendoatelier.netlify.app)
+
+### New World Science
+
+Science-focused content platform with an editorial interface.
+
+`Web Development` `Content` `Responsive UI`
+
+[View project](https://newworldscience.netlify.app)
+
+---
+
+## 🧠 How I think about software
+
+I like this equation:
+
+[
+\text{Good Software}
+====================
+
+\text{Useful Idea}
++
+\text{Good UX}
++
+\text{Solid Engineering}
+]
+
+And when AI is involved:
+
+[
+\text{AI Product}
+=================
+
+\text{AI}
++
+\text{Good Data}
++
+\text{Good UX}
++
+\text{Human Judgment}
+]
+
+The model is only one part of the product.
+
+I care about what happens before the model receives a request, what happens after it responds, and whether the user actually gets something useful out of the experience.
+
+---
+
+## 📚 Currently learning
+
+I'm constantly moving between building and learning.
+
+Right now I'm going deeper into:
+
+* Advanced TypeScript
+* Next.js architecture
+* Backend engineering
+* AI application architecture
+* Retrieval-Augmented Generation
+* AI agents
+* Search systems
+* System design
+* Web performance
+* Python
+* Web3
+
+My learning loop is pretty simple:
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break something
+  ↓
+Figure out why
+  ↓
+Build it better
+```
+
+---
+
+## 📊 GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-williamsX&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raymondstudio&show_icons=true&hide_border=true&rank_icon=github" alt="Raymond's GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondstudio&layout=compact&hide_border=true" alt="Raymond's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymondstudio&hide_border=true" alt="Raymond's GitHub streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<a href="https://raymondstudio.dev"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raymond-iorliam-27200139a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/Raymond_Xr"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+## 🏆 Things I'm proud of
+
+* Building and shipping AI-powered products
+* Building EduAgent AI for students
+* Building Atrixia as an AI shopping concept
+* Working across frontend, backend, databases, and AI
+* Leading software engineering projects and teams
+* Taking ideas from a rough concept to a working product
+* Participating in technical competitions and hackathons
+* Continuously expanding beyond frontend development
 
 ---
 
+## 👨🏽‍💻 Beyond coding
+
+I spend a lot of time thinking about products, not just code.
+
+Sometimes that means designing a better interface.
+
+Sometimes it's figuring out why an API is returning something completely unexpected at 2 AM.
+
+Sometimes it's taking a random idea and asking:
+
+> "Could I actually build this?"
+
+That's usually how the next project starts.
+
+---
+
+## 🌐 Let's connect
+
+If you're interested in software engineering, AI, product development, collaboration, or just want to talk tech, feel free to reach out.
+
+<p align="center">
+  <a href="https://raymondstudio.dev">
+    <img src="https://img.shields.io/badge/Portfolio-raymondstudio.dev-black?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/Raymond_Xr">
+    <img src="https://img.shields.io/badge/X-@Raymond__Xr-black?style=for-the-badge&logo=x" alt="X" />
+  </a>
+  <a href="mailto:contact@raymondstudio.dev">
+    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://wa.link/ejtszu">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-black?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building things, breaking things, learning, and shipping.</i>
+</p>
+
+<p align="center">
+  <sub>© Raymond Iorliam</sub>
+</p>
